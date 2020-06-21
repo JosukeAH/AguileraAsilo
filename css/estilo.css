@@ -281,17 +281,17 @@ text-align: center;
 margin-bottom:20px;
 }
 .displays{
-  width: 49%;
+  width: 99%;
   height: 150px;
   margin: 10px 2px;
   display: inline-block;
   vertical-align: middle;
   background-color: #127681;
   text-align: center;
+  min-width:700px;
 }
 
 .proy2{
-  width: 49%;
   border:1px solid #ccc;
   text-align: center;
   border-radius:5px;
