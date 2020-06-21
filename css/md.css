@@ -105,9 +105,9 @@
  .redes{
      display:block;
      text-align:center;
-     margin:0px 3px;
-     font-size:5px;
-    align-content: center;
+     margin:0px autopx;
+     font-size:12px;
+
  }
  .opcion:hover{
     color: rgb(255, 249, 249);
