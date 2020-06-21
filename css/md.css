@@ -9,7 +9,7 @@
        color:#fff;
    }
     #menu-ham{
-        width:60%;
+        width:30%;
         min-width:100px;
         display:inline-block;
         vertical-align:middle;
@@ -22,7 +22,7 @@
     }
     #menuPrincipal{
         height: 0px;
-        width:90%;
+        width:99%;
         overflow:hidden;
     }
     #cabecera:target #abrir-ham{
@@ -103,9 +103,11 @@
       height:280px;
   }
  .redes{
+     display:block;
      text-align:center;
      margin:0px 3px;
      font-size:5px;
+    align-content: center;
  }
  .opcion:hover{
     color: rgb(255, 249, 249);

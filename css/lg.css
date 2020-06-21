@@ -15,6 +15,7 @@
         width:47%;
         margin-bottom:3%;
     }
+
     .separar-nulo{
         margin-left: 0px;
     }
@@ -29,5 +30,26 @@
     }
     footer{
         text-align: center;
+    }
+    .displays{
+        width: 99%;
+        height: 150px;
+        margin: 10px 2px;
+        display: block;
+        background-color: #127681;
+        align-content: center;
+        min-width:700px;
+        margin:0px -1px;
+      }
+      .disp-c{
+        display: block;
+        text-align: center;
+        align-content: center;
+        margin:10px auto;
+        width:80%;
+    }
+    iframe{
+        width:99%;
+        height:420px;
     }
 }
