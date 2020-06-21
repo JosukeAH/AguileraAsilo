@@ -281,14 +281,13 @@ text-align: center;
 margin-bottom:20px;
 }
 .displays{
-  width: 99%;
+  width: 49%;
   height: 150px;
   margin: 10px 2px;
   display: inline-block;
   vertical-align: middle;
   background-color: #127681;
   text-align: center;
-  min-width:700px;
 }
 
 .proy2{
@@ -297,6 +296,7 @@ margin-bottom:20px;
   border-radius:5px;
   display: inline-block;
   overflow: hidden;
+  width:49%;
 }
 
 p{
