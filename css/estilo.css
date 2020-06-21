@@ -193,20 +193,20 @@ text-align: center;
    text-align: center;
 } */
 .proy{
-   width:22%;
+   width:24%;
    border:1px solid #ccc;
    text-align: center;
    border-radius:5px;
    display: inline-block;
    overflow: hidden;
-   margin-bottom:20px;
    margin-top:10px;
 }
 .proy:hover{
    box-shadow:0px 0px 5px #999;
 }
 .separar-izq{
-   margin-left:3%;
+   margin-left:2%;
+   margin:0px 0px 
 }
 
 .separar-der{

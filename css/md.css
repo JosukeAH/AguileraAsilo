@@ -112,4 +112,8 @@
  .opcion:hover{
     color: rgb(255, 249, 249);
 }
+.imgs{
+    width:130px;
+    height:190px;
+}
 }

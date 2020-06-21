@@ -12,13 +12,27 @@
         text-align:center;
     }
     .proy{
-        width:47%;
+        width: 48%;
         margin-bottom:3%;
     }
 
+
     .separar-nulo{
-        margin-left: 0px;
-    }
+        margin:5px 0px;
+        margin-left:0%;
+
+     }
+     .separar-izq{
+        margin-left:3%;
+        margin:0px 0px 
+     }
+     .imgs{
+         width:380px;
+         height:290px;
+     }
+     .separar-der{
+        margin-right:3%;
+     }
     .proy img{
         height: 160px;
     }
