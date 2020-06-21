@@ -1,0 +1,33 @@
+@media screen and (max-width:992px){
+    
+    #quienes img{
+        min-width:365px;
+        height:260px;
+    }
+    #quienes article{
+        width:40%;
+        padding-left:20px;
+    }
+    #filosofia{
+        text-align:center;
+    }
+    .proy{
+        width:47%;
+        margin-bottom:3%;
+    }
+    .separar-nulo{
+        margin-left: 0px;
+    }
+    .proy img{
+        height: 160px;
+    }
+    #proyectos h1{
+        font-size:2.5rem;
+    }
+    #menuPrincipal{
+        text-align: center;
+    }
+    footer{
+        text-align: center;
+    }
+}
